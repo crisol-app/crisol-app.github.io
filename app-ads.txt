@@ -1,0 +1,6 @@
+# app-ads.txt — Crisol
+# Host this file at the root of the developer website declared in your Play Store listing:
+#   https://<your-developer-domain>/app-ads.txt
+# Until it is hosted and crawled, AdMob throttles ad fill. See docs/play-store-submission.md.
+
+google.com, pub-8576695544318303, DIRECT, f08c47fec0942fa0
